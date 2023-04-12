@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, mi nombre es: Arturo Rodríguez Flores.</h1>
-<h3 align="center">Soy un desarrollador Frontend de México, en camino a desarrollador FullStack.</h3>
+<h3 align="center">Soy un desarrollador de México.</h3>
 
-- 🌱 Actualmente estoy aplicando mis conocimientos en ReactJs. **HTML, CSS, SCSS, JavaScript, ReactJS.**
+- 🌱 Actualmente estoy aplicando mis conocimientos en Java, POO en Java, y también tengo conocimientos en desarrollo FrontEnd. **HTML, CSS, SCSS, JavaScript**
 
-- 💬 Preguntame sobre: **HTML, CSS, SCSS, JavaScript, ReactJS.**
+- 💬 Preguntame sobre: **Java, Html, Css, Scss, Programación orientada a objetos.**
 
 - 📫 Puedes contactarme en: **rodriguezfarturo5@gmail.com**
 
